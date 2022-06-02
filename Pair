@@ -29,5 +29,4 @@ bool cmp( const pair<string,int> &p1, const pair<string, int> &p2)
     for ( auto u : v ) {
         cout<< u.first <<" "<<u.second<<endl;
     }
-
 }
